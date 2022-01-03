@@ -245,7 +245,7 @@
   margin-right: 8px;
   width: 24px;
   height: 24px;
-  background-image: url('https://ytmp3.cc/images/icon-video-default@3x.webp');
+  background-image: url('/images/icon-video-default@3x.webp');
   background-size: 100%;
   background-repeat: no-repeat;
 }
@@ -286,7 +286,7 @@
   display: block;
   width: 24px;
   height: 24px;
-  background-image: url('https://ytmp3.cc/images/icon_lock_default.webp');
+  background-image: url('/images/icon_lock_default.webp');
   background-size: 100%;
   background-repeat: no-repeat;
 }
@@ -323,7 +323,7 @@
   background-color: rgba(0, 0, 0, 0.6);
 }
 .modal-text {
-  background-image: url('../images/download-app.png');
+  background-image: url('/images/download-app.png');
   background-size: 87vw 47vw;
   background-repeat: no-repeat;
   background-position: center 0;
